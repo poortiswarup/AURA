@@ -1,0 +1,17 @@
+[
+  {
+    "id": "2f926cd9-5e91-4c78-94cc-7f9766e11d01",
+    "created_date": "2026-03-05T18:03:49.400637",
+    "headline": "Here Is Why Alphabet (GOOGL) is One of The Best Stocks According to Billionaires",
+    "company": "GOOGL",
+    "source": "YF",
+    "url": "https://finance.yahoo.com/news/alphabet-inc-googl-touted-ai-165312836.html",
+    "publish_date": "2026-03-05",
+    "vader_score": 0.6369,
+    "textblob_score": 1.0,
+    "lm_score": 0.0,
+    "finbert_score": 0.5456,
+    "aggregate_score": 0.4956,
+    "sentiment_label": "very_positive"
+  }
+]

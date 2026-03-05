@@ -1,0 +1,13 @@
+[
+  {
+    "id": "6f29e7f9-17ad-4602-9ac8-ef9b53f799fb",
+    "created_date": "2026-03-05T18:01:10.758256",
+    "is_active": true,
+    "risk_level": "low",
+    "sentiment_trend": "stable",
+    "latest_sentiment": null,
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "sector": "Technology"
+  }
+]
