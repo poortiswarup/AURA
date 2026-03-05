@@ -1,9 +1,3 @@
-"""
-AURA Analytics — Streamlit App
-Affective Uncertainty & Risk Analytics
-Full Python conversion of the Base44 app.
-"""
-
 import streamlit as st
 import pandas as pd
 import numpy as np
