@@ -1,6 +1,5 @@
 # AURA Analytics — Streamlit App
 
-Python conversion of the Base44 AURA Analytics dashboard.
 
 ## Setup
 
