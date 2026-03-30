@@ -35,4 +35,3 @@ All data is stored locally in `data/` as JSON files:
 - `data/companies.json` — tracked companies
 - `data/snapshots.json` — market snapshots for correlation
 
-No database or API key required to get started.
